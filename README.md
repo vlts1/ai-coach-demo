@@ -1,6 +1,7 @@
 # ai_coach_demo
 
 Google Play: https://play.google.com/store/apps/details?id=mell.dev.ibox
+
 App Store: https://apps.apple.com/us/app/ai-boxing-coach/id6664058599
 
 ## Getting Started
